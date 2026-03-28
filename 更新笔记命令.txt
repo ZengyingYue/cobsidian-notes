@@ -1,0 +1,1 @@
+git -C D:/obsidian add -A && git -C D:/obsidian commit -m "更新笔记" && git -C D:/obsidian push
